@@ -16,4 +16,5 @@
 6. Accessed website using EC2 Public IP.
 
 ## Output
+http://16.171.200.70/
 Website successfully hosted on AWS EC2.
