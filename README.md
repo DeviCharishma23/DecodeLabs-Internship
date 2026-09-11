@@ -8,4 +8,5 @@ Hosted a static portfolio website using AWS S3 Static Website Hosting.
 - CSS
 
 ## Outcome
+http://my-first-s3-bucket-2026-841535407003-eu-north-1-an.s3-website.eu-north-1.amazonaws.com/
 Successfully deployed a public portfolio website and obtained a live URL.
